@@ -1,0 +1,98 @@
+teams:
+  - name: robots
+    maintainers:
+      - ryjones
+    members:
+      - hyperledger-bot
+  - name: staff
+    maintainers:
+      - ryjones
+  - name: web3j-admins
+    maintainers:
+      - ryjones
+    members:
+      - NickSneo
+      - gtebrean
+#    members:
+      - conor10
+  - name: web3j-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - NickSneo
+      - gtebrean
+#    members:
+      - Ugo
+      - conor10
+      - iikirilov
+repositories:
+  - name: governance
+    teams:
+      staff: write
+      web3j-maintainers: write
+    visibility: public
+#  - name: web3j
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-build-tools
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-cli
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-docs
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-evm
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-gradle-plugin
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-installer
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-maven-plugin
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-openapi
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-openapi-gradle-plugin
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-sokt
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-solidity-gradle-plugin
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
+#  - name: web3j-unit
+#    teams:
+#      web3j-admins: admin
+#      web3j-maintainers: write
+#    visibility: public
