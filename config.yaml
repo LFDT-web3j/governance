@@ -9,19 +9,15 @@ teams:
       - ryjones
   - name: web3j-admins
     maintainers:
-      - ryjones
-    members:
       - NickSneo
       - gtebrean
-#    members:
+    members:
       - conor10
   - name: web3j-maintainers
     maintainers:
-      - ryjones
-    members:
       - NickSneo
       - gtebrean
-#    members:
+    members:
       - Ugo
       - conor10
       - iikirilov
