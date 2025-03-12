@@ -1,8 +1,10 @@
-**Technical Charter (the “Charter”) for Hyperledger Web3j a Series of LF Projects, LLC**
+**Technical Charter (the “Charter”) for Web3j a Series of LF Projects, LLC**
 
 **Adopted August 29, 2024**
 
-This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Hyperledger Web3j open source project, which has been established as Hyperledger Web3j a Series of LF Projects, LLC (the “Project”).  LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter. 
+**Amended March 12, 2025**
+
+This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Web3j open source project, which has been established as Web3j a Series of LF Projects, LLC (the “Project”).  LF Projects, LLC (“LF Projects”) is a Delaware series limited liability company. All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter. 
 
 1. **Mission and Scope of the Project**
 
@@ -28,7 +30,7 @@ This Charter sets forth the responsibilities and procedures for technical contri
 
    5. The TSC may (1) establish workflow procedures for the submission, approval, and closure/archiving of sub-projects, (2) set requirements for the promotion of Contributors to Maintainer status, as applicable, and (3) amend, adjust, refine and/or eliminate the roles of Contributors, and Maintainers, and create new roles, and publicly document any TSC roles, as it sees fit.
 
-   6. The TSC may elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC.  The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact between the Project and the Hyperledger Foundation, a directed fund of The Linux Foundation.
+   6. The TSC may elect a TSC Chair, who will preside over meetings of the TSC and will serve until their resignation or replacement by the TSC.  The TSC Chair, or any other TSC member so designated by the TSC, will serve as the primary communication contact between the Project and LF Decentralized Trust, a directed fund of The Linux Foundation.
 
    7. Responsibilities: The TSC will be responsible for all aspects of oversight relating to the Project, which may include:
 
