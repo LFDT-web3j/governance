@@ -21,6 +21,13 @@ teams:
       - Ugo
       - conor10
       - iikirilov
+  - name: web3j-mentorship-2025
+    maintainers:
+      - gtebrean
+    members:
+      - angrezichatterbox
+      - bodyhedia44
+      - fangshuocao
 repositories:
   - name: governance
     teams:
