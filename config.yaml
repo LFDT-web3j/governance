@@ -29,6 +29,11 @@ teams:
       - bodyhedia44
       - FangshuoCao
 repositories:
+  - name: .github
+    teams:
+      staff: maintain
+      web3j-maintainers: maintain
+    visibility: public
   - name: governance
     teams:
       staff: write
