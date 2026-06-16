@@ -20,14 +20,12 @@ teams:
     members:
       - Ugo
       - conor10
-      - iikirilov
-  - name: web3j-mentorship-2025
+  - name: web3j-mentorship-2026
     maintainers:
       - gtebrean
     members:
-      - angrezichatterbox
-      - bodyhedia44
-      - FangshuoCao
+      - Saurav1375
+      - Dev10-sys
 repositories:
   - name: .github
     teams:
